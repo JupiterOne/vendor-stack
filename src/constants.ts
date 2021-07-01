@@ -169,6 +169,7 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
     linkToDPA: 'https://psp.jptr.one/gdpr-dpa.html',
     linkToISA: 'https://jupiterone.com/trust-and-transparency/',
     privacyPolicy: 'https://jupiterone.com/privacy-policy/',
+    subprocessors: 'https://psp.jptr.one/subprocessors.html',
     termsConditions: 'https://jupiterone.com/terms/',
   },
   justworks: {
