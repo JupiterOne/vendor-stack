@@ -111,7 +111,13 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
     iconWebLink: '',
   },
 
-  // G - Google
+  // G
+  gong: {
+    name: 'Gong',
+    iconWebLink: 'https://www.gong.io/wp-content/themes/gong-2018/assets/img/header-logo.png',
+    privacyPolicy: 'https://www.gong.io/privacy-policy/',
+    termsConditions: 'https://www.gong.io/terms-and-conditions/',
+  },
   google: {
     name: 'Google',
     iconWebLink: 'https://www.svgrepo.com/download/304493/google.svg',
