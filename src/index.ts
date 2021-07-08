@@ -1,4 +1,4 @@
-import { startCase } from 'lodash';
+import startCase from 'lodash.startcase';
 import { KNOWN_VENDORS, VENDOR_APPS } from "./constants";
 import { VendorData } from './types';
 
@@ -9,7 +9,7 @@ export function getVendorFromAppName(appName: string): VendorData {
     }
   }
 
-  return getVendor(appName);  
+  return getVendor(appName);
 }
 
 export function getVendor(name: string): VendorData {
