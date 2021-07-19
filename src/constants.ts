@@ -56,6 +56,16 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
     name: 'Carbon Black',
     iconWebLink: '',
   },
+  churnzero: {
+    name: 'ChurnZero',
+    description: 'Customer Success platform',
+    iconWebLink:
+      'https://44aqyd1gir1l3zgqxe1m5r43-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/ChurnZero-Logo-Dark-on-Light-LARGE-550x104.png',
+    privacyPolicy: 'https://churnzero.net/privacy-policy/',
+    termsConditions: 'https://churnzero.net/terms-of-use/',
+    webLink: 'https://churnzero.com',
+    website: 'https://churnzero.com',
+  },
   cisco: {
     name: 'Cisco',
     iconWebLink: 'https://www.svgrepo.com/download/303323/cisco-2-logo.svg',
