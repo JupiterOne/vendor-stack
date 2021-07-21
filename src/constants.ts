@@ -301,6 +301,10 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
   },
 
   // T
+  tackle: {
+    name: 'Tackle.io',
+    iconWebLink: '',
+  },
   textmagic: {
     name: 'TextMagic',
     iconWebLink: '',
