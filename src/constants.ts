@@ -84,6 +84,19 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
   },
 
   // D
+  datadog: {
+    name: 'Datadog',
+    cookiePolicy: 'https://www.datadoghq.com/legal/cookies/',
+    description: 'Serverless Log Management, APM, and Security, Network, Synthetic, and Real-User Monitoring Platform',
+    iconWebLink:
+      'https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png?auto=format',
+    linkToBAA: 'https://www.datadoghq.com/legal/hipaa-eligible-services/',
+    linkToMSA: 'https://www.datadoghq.com/legal/msa/',
+    privacyPolicy: 'https://www.datadoghq.com/legal/privacy/',
+    termsConditions: 'https://www.datadoghq.com/legal/terms/',
+    webLink: 'https://app.datadoghq.com',
+    website: 'https://datadog.com',
+  },
   dashlane: {
     name: 'Dashlane',
     iconWebLink: '',
