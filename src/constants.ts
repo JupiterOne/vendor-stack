@@ -212,7 +212,10 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
   },
   linkedin: {
     name: 'LinkedIn',
-    iconWebLink: 'https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg',
+    iconWebLink: 'https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg',
+    linkToDPA: 'https://www.linkedin.com/legal/california-privacy-disclosure',
+    privacyPolicy: 'https://www.linkedin.com/legal/privacy-policy',
+    termsConditions: 'https://www.linkedin.com/legal/user-agreement',
   },
   logmein: {
     name: 'LogMeIn',
