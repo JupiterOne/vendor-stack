@@ -282,6 +282,15 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
   },
 
   // S
+  safebase: {
+    name: 'Safebase.io',
+    iconWebLink: 'https://assets.website-files.com/5f8605aa6914994530387159/5f861a5a79431179c1c13dec_safebase-horiz-color.svg',
+    linkToDPA: 'https://security.safebase.io/',
+    privacyPolicy: 'https://safebase.io/privacy',
+    statusPage: 'https://status.safebase.io/',
+    termsConditions: 'https://safebase.io/terms-of-service',
+    website: 'safebase.io'
+  },
   salesforce: {
     name: 'Salesforce',
     category: 'CRM',
