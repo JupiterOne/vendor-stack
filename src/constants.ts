@@ -240,6 +240,13 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
     name: 'Mode Analytics',
     iconWebLink: '',
   },
+  motion: {
+    name: 'Motion',
+    iconWebLink: 'https://assets.website-files.com/5fcb349058268443b1f5dbdb/60089046cf3d9e5f7bbdc052_Motion%20Logo.svg',
+    privacyPolicy: 'https://static.inmotion.app/privacy.pdf',
+    termsConditions: 'https://static.inmotion.app/terms.pdf',
+  },
+
 
   // N
   naviabenefits: {
