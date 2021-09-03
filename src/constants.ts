@@ -82,6 +82,15 @@ export const KNOWN_VENDORS: { [key: string]: VendorData } = {
     name: 'Culture Amp',
     iconWebLink: '',
   },
+  cycode: {
+    name: 'Cycode',
+    description: 'A platform for security, governance, and pipeline integrity for all your development tools & infrastructure.',
+    iconWebLink: 'https://cycode.com/wp-content/uploads/2020/10/Cycode_logo.svg',
+    privacyPolicy: 'https://cycode.com/privacy-policy/',
+    termsConditions: 'https://cycode.com/terms-of-use/',
+    webLink: 'https://cycode.com',
+    website: 'https://cycode.com',
+  },
 
   // D
   datadog: {
