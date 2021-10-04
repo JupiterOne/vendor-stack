@@ -1,0 +1,76 @@
+{
+  "$id": "Vendor",
+  "description": "A JSON schema for Vendors. This project uses AJV to validate all of the Vendors on commit.",
+  "type": "object",
+  "required": [
+    "name"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "displayName": {
+      "type": "string"
+    },
+    "category": {
+      "$ref": "StringArray"
+    },
+    "dataSecurity": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "fedrampATO": {
+      "type": "boolean"
+    },
+    "fedrampLevel": {
+      "type": "string"
+    },
+    "fedrampReady": {
+      "type": "string"
+    },
+    "iconWebLink": {
+      "type": "string"
+    },
+    "linkToBAA": {
+      "$ref": "StringArray"
+    },
+    "linkToISA": {
+      "$ref": "StringArray"
+    },
+    "linkToDPA": {
+      "$ref": "StringArray"
+    },
+    "linkToMSA": {
+      "$ref": "StringArray"
+    },
+    "linkToSLA": {
+      "$ref": "StringArray"
+    },
+    "cookiePolicy": {
+      "type": "string"
+    },
+    "privacyPolicy": {
+      "type": "string"
+    },
+    "statusPage": {
+      "type": "string"
+    },
+    "subprocessors": {
+      "$ref": "StringArray"
+    },
+    "termsConditions": {
+      "type": "string"
+    },
+    "webLink": {
+      "type": "string"
+    },
+    "website": {
+      "$ref": "StringArray"
+    },
+    "_type": {
+      "type": "string"
+    }
+  }
+}
