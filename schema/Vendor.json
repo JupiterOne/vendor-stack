@@ -68,9 +68,6 @@
     },
     "website": {
       "$ref": "StringArray"
-    },
-    "_type": {
-      "type": "string"
     }
   }
 }
