@@ -1,0 +1,10 @@
+{
+  "name": "ZoomInfo",
+  "category": "collaboration",
+  "iconWebLink": "https://www.zoominfo.com/wp-content/themes/zoominfo/images/header-new-site/zoominfo-logo.svg",
+  "dataSecurity": "https://www.zoominfo.com/about/security",
+  "cookiePolicy": "https://www.zoominfo.com/cookies-settings",
+  "privacyPolicy": "https://www.zoominfo.com/about-zoominfo/privacy-policy",
+  "termsConditions": "https://www.zoominfo.com/about-zoominfo/ltc",
+  "website": "zoominfo.com"
+}
