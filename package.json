@@ -9,7 +9,7 @@
   "scripts": {
     "prepare": "husky install",
     "validate": "node tools/validateVendors",
-    "test": "jest --passWithNoTests"
+    "test": "jest"
   },
   "devDependencies": {
     "ajv": "^8.6.3",
