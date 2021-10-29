@@ -1,4 +1,6 @@
 {
   "name": "HackerOne",
-  "iconWebLink": "https://www.svgrepo.com/download/306172/hackerone.svg"
+  "iconWebLink": "https://www.svgrepo.com/download/306172/hackerone.svg",
+  "_type": "hackerone",
+  "aliases": []
 }

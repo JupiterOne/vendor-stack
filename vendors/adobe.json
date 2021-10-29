@@ -2,5 +2,7 @@
   "name": "Adobe",
   "iconWebLink": "https://www.svgrepo.com/download/197935/adobe.svg",
   "privacyPolicy": "https://www.adobe.com/privacy/policy.html",
-  "website": "https://www.adobe.com/"
+  "website": "https://www.adobe.com/",
+  "_type": "adobe",
+  "aliases": []
 }

@@ -5,5 +5,7 @@
   "privacyPolicy": "https://addigy.com/legal/privacy-policy/",
   "termsConditions": "https://addigy.com/terms-and-conditions/",
   "webLink": "https://addigy.com/",
-  "website": "https://addigy.com/"
+  "website": "https://addigy.com/",
+  "_type": "addigy",
+  "aliases": []
 }

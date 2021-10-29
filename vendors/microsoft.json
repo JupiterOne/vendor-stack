@@ -1,4 +1,6 @@
 {
   "name": "Microsoft",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "microsoft",
+  "aliases": []
 }

@@ -1,4 +1,6 @@
 {
   "name": "FireEye",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "fireeye",
+  "aliases": []
 }

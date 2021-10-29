@@ -1,4 +1,6 @@
 {
   "name": "Paylocity",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "paylocity",
+  "aliases": []
 }

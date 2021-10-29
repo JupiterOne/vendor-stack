@@ -1,4 +1,6 @@
 {
   "name": "VMware",
-  "iconWebLink": "https://www.svgrepo.com/download/306940/vmware.svg"
+  "iconWebLink": "https://www.svgrepo.com/download/306940/vmware.svg",
+  "_type": "vmware",
+  "aliases": []
 }

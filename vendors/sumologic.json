@@ -1,4 +1,6 @@
 {
   "name": "Sumo Logic",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "sumo_logic",
+  "aliases": []
 }

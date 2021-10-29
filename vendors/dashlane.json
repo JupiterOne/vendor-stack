@@ -1,4 +1,6 @@
 {
   "name": "Dashlane",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "dashlane",
+  "aliases": []
 }

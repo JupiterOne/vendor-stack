@@ -6,5 +6,7 @@
   "cookiePolicy": "https://support.gather.town/help/cookies",
   "privacyPolicy": "https://www.gather.town/privacy-policy",
   "termsConditions": "https://www.gather.town/terms-of-service",
-  "website": "https://www.gather.town/"
+  "website": "https://www.gather.town/",
+  "_type": "gather",
+  "aliases": []
 }

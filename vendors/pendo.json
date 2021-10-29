@@ -1,4 +1,6 @@
 {
   "name": "Pendo",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "pendo",
+  "aliases": []
 }

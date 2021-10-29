@@ -1,4 +1,6 @@
 {
   "name": "BambooHR",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "bamboohr",
+  "aliases": []
 }

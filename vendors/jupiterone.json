@@ -5,5 +5,7 @@
   "linkToISA": "https://jupiterone.com/trust-and-transparency/",
   "privacyPolicy": "https://jupiterone.com/privacy-policy/",
   "subprocessors": "https://psp.jptr.one/subprocessors.html",
-  "termsConditions": "https://jupiterone.com/terms/"
+  "termsConditions": "https://jupiterone.com/terms/",
+  "_type": "jupiterone",
+  "aliases": []
 }

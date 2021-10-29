@@ -1,10 +1,12 @@
 {
-    "name": "Smartsheet",
-    "category": "collaboration",
-    "iconWebLink": "https://www.smartsheet.com/sites/default/files/smartsheet-logo-blue-new.svg",
-    "dataSecurity": "https://www.smartsheet.com/legal/security",
-    "cookiePolicy": "https://www.smartsheet.com/legal/cookie-notice",
-    "privacyPolicy": "https://www.smartsheet.com/legal/privacy",
-    "termsConditions": "https://www.smartsheet.com/legal/user-agreement",
-    "website": "smartsheet.com"
+  "name": "Smartsheet",
+  "category": "collaboration",
+  "iconWebLink": "https://www.smartsheet.com/sites/default/files/smartsheet-logo-blue-new.svg",
+  "dataSecurity": "https://www.smartsheet.com/legal/security",
+  "cookiePolicy": "https://www.smartsheet.com/legal/cookie-notice",
+  "privacyPolicy": "https://www.smartsheet.com/legal/privacy",
+  "termsConditions": "https://www.smartsheet.com/legal/user-agreement",
+  "website": "smartsheet.com",
+  "_type": "smartsheet",
+  "aliases": []
 }

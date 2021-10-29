@@ -1,4 +1,6 @@
 {
   "name": "SolarWinds",
-  "iconWebLink": "https://www.vectorlogo.zone/logos/solarwinds/solarwinds-icon.svg"
+  "iconWebLink": "https://www.vectorlogo.zone/logos/solarwinds/solarwinds-icon.svg",
+  "_type": "solarwinds",
+  "aliases": []
 }

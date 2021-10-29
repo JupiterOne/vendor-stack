@@ -6,5 +6,7 @@
   "cookiePolicy": "https://www.zoominfo.com/cookies-settings",
   "privacyPolicy": "https://www.zoominfo.com/about-zoominfo/privacy-policy",
   "termsConditions": "https://www.zoominfo.com/about-zoominfo/ltc",
-  "website": "zoominfo.com"
+  "website": "zoominfo.com",
+  "_type": "zoominfo",
+  "aliases": []
 }

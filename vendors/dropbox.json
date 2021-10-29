@@ -1,4 +1,6 @@
 {
   "name": "Dropbox",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "dropbox",
+  "aliases": []
 }

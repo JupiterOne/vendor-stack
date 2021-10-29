@@ -1,4 +1,6 @@
 {
   "name": "Snyk",
-  "iconWebLink": "https://worldvectorlogo.com/download/snyk.svg"
+  "iconWebLink": "https://worldvectorlogo.com/download/snyk.svg",
+  "_type": "snyk",
+  "aliases": []
 }

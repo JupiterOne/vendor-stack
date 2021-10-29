@@ -1,4 +1,6 @@
 {
   "name": "Atlassian",
-  "iconWebLink": "https://worldvectorlogo.com/download/atlassian-1.svg"
+  "iconWebLink": "https://worldvectorlogo.com/download/atlassian-1.svg",
+  "_type": "atlassian",
+  "aliases": []
 }

@@ -5,5 +5,7 @@
   "dataSecurity": "https://cambridge-intelligence.com/privacy-policy/#7",
   "cookiePolicy": "https://cambridge-intelligence.com/privacy-policy/cookie-policy/",
   "privacyPolicy": "https://cambridge-intelligence.com/privacy-policy",
-  "website": "https://cambridge-intelligence.com/regraph"
+  "website": "https://cambridge-intelligence.com/regraph",
+  "_type": "regraph",
+  "aliases": []
 }

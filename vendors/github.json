@@ -1,4 +1,6 @@
 {
   "name": "GitHub",
-  "iconWebLink": "https://www.svgrepo.com/download/303615/github-icon-1-logo.svg"
+  "iconWebLink": "https://www.svgrepo.com/download/303615/github-icon-1-logo.svg",
+  "_type": "github",
+  "aliases": []
 }

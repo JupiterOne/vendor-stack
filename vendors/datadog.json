@@ -8,5 +8,7 @@
   "privacyPolicy": "https://www.datadoghq.com/legal/privacy/",
   "termsConditions": "https://www.datadoghq.com/legal/terms/",
   "webLink": "https://app.datadoghq.com",
-  "website": "https://datadog.com"
+  "website": "https://datadog.com",
+  "_type": "datadog",
+  "aliases": []
 }

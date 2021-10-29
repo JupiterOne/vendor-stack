@@ -1,4 +1,6 @@
 {
   "name": "Mode Analytics",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "mode_analytics",
+  "aliases": []
 }

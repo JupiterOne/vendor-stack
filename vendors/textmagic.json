@@ -1,4 +1,6 @@
 {
   "name": "TextMagic",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "textmagic",
+  "aliases": []
 }

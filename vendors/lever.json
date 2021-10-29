@@ -5,6 +5,7 @@
   "cookiePolicy": "https://www.lever.co/cookie-policy/",
   "privacyPolicy": "https://www.lever.co/privacy",
   "termsConditions": "https://www.lever.co/agreements/tos/",
-  "website": "https://www.lever.co/"
+  "website": "https://www.lever.co/",
+  "_type": "lever",
+  "aliases": []
 }
-  

@@ -1,4 +1,6 @@
 {
   "name": "Google Android",
-  "iconWebLink": "https://www.svgrepo.com/download/184140/android.svg"
+  "iconWebLink": "https://www.svgrepo.com/download/184140/android.svg",
+  "_type": "google_android",
+  "aliases": []
 }

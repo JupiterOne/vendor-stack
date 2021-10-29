@@ -11,5 +11,7 @@
   "statusPage": "https://status.aws.amazon.com/",
   "termsConditions": "https://aws.amazon.com/service-terms/",
   "webLink": "https://aws.amazon.com/console/",
-  "website": "https://aws.amazon.com/"
+  "website": "https://aws.amazon.com/",
+  "_type": "aws",
+  "aliases": []
 }

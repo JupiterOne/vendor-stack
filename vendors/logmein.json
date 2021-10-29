@@ -1,4 +1,6 @@
 {
   "name": "LogMeIn",
-  "iconWebLink": "https://www.vectorlogo.zone/logos/logmein/logmein-icon.svg"
+  "iconWebLink": "https://www.vectorlogo.zone/logos/logmein/logmein-icon.svg",
+  "_type": "logmein",
+  "aliases": []
 }

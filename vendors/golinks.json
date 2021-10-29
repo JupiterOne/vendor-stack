@@ -1,4 +1,6 @@
 {
   "name": "GoLinks",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "golinks",
+  "aliases": []
 }

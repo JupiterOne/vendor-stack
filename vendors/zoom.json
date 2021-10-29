@@ -10,5 +10,7 @@
   "privacyPolicy": "https://zoom.us/privacy",
   "subprocessors": "https://zoom.us/subprocessors",
   "termsConditions": "https://zoom.us/terms",
-  "website": "zoom.us"
+  "website": "zoom.us",
+  "_type": "zoom",
+  "aliases": []
 }

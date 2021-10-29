@@ -1,4 +1,6 @@
 {
   "name": "WP Engine",
-  "iconWebLink": "https://worldvectorlogo.com/download/wpengine.svg"
+  "iconWebLink": "https://worldvectorlogo.com/download/wpengine.svg",
+  "_type": "wp_engine",
+  "aliases": []
 }

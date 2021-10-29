@@ -1,4 +1,6 @@
 {
   "name": "CrowdStrike",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "crowdstrike",
+  "aliases": []
 }

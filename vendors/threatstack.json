@@ -1,4 +1,6 @@
 {
   "name": "Threat Stack",
-  "iconWebLink": ""
+  "iconWebLink": "",
+  "_type": "threat_stack",
+  "aliases": []
 }

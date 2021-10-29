@@ -6,5 +6,7 @@
   "privacyPolicy": "https://www.salesforce.com/company/privacy/",
   "statusPage": "https://status.salesforce.com/",
   "termsConditions": "https://www.salesforce.com/company/legal/sfdc-website-terms-of-service/",
-  "website": "salesforce.com"
+  "website": "salesforce.com",
+  "_type": "salesforce",
+  "aliases": []
 }
