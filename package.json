@@ -1,11 +1,14 @@
 {
   "name": "@jupiterone/vendor-stack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enumeration of common technology vendors",
   "repository": "git@github.com:JupiterOne/vendor-stack.git",
   "author": "jupiterone.com",
   "main": "src/index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "prepare": "husky install",
     "validate": "node tools/validateVendors",
@@ -14,9 +17,8 @@
   "devDependencies": {
     "ajv": "^8.6.3",
     "husky": "^7.0.2",
-    "jest": "^27.3.1"
-  },
-  "dependencies": {
+    "jest": "^27.3.1",
     "lodash.omit": "^4.5.0"
-  }
+  },
+  "dependencies": {}
 }
