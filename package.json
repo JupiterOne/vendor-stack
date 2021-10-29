@@ -6,6 +6,9 @@
   "author": "jupiterone.com",
   "main": "src/index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "prepare": "husky install",
     "validate": "node tools/validateVendors",
