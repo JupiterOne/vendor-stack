@@ -6,8 +6,7 @@ const Ajv = require("ajv");
 const StringArray = require("../schema/StringArray.json");
 const Vendor = require("../schema/Vendor.json");
 
-// aliases and _type are used for mapping, no need to store on Vendor Entities.
-const PROPS_TO_OMIT = ["aliases", "_type"];
+const { VENDOR_PROPS_TO_OMIT } = require("../src")
 
 const ajv = new Ajv();
 const validate = ajv
@@ -22,7 +21,7 @@ const invalidVendors = [];
 
 for (const vendorFile of vendorFiles) {
   const vendor = require(Path.join(vendorsPathPrefix, vendorFile));
-  const isVendorValid = validate(omit(vendor, PROPS_TO_OMIT));
+  const isVendorValid = validate(omit(vendor, VENDOR_PROPS_TO_OMIT));
 
   if (!isVendorValid) invalidVendors.push(vendorFile);
 }

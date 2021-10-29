@@ -1,6 +1,6 @@
 {
   "name": "@jupiterone/vendor-stack",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Enumeration of common technology vendors",
   "repository": "git@github.com:JupiterOne/vendor-stack.git",
   "author": "jupiterone.com",
