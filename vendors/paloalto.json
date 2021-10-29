@@ -1,6 +1,6 @@
 {
-    "name": "Palo Alto Networks",
-    "iconWebLink": "",
-    "_type": "palo_alto_networks",
-    "aliases": []
+  "name": "Palo Alto Networks",
+  "iconWebLink": "",
+  "_type": "palo_alto_networks",
+  "aliases": []
 }

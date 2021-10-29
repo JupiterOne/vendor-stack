@@ -1,11 +1,11 @@
 {
-    "name": "Cycode",
-    "description": "A platform for security, governance, and pipeline integrity for all your development tools & infrastructure.",
-    "iconWebLink": "https://cycode.com/wp-content/uploads/2020/10/Cycode_logo.svg",
-    "privacyPolicy": "https://cycode.com/privacy-policy/",
-    "termsConditions": "https://cycode.com/terms-of-use/",
-    "webLink": "https://cycode.com",
-    "website": "https://cycode.com",
-    "_type": "cycode",
-    "aliases": []
+  "name": "Cycode",
+  "description": "A platform for security, governance, and pipeline integrity for all your development tools & infrastructure.",
+  "iconWebLink": "https://cycode.com/wp-content/uploads/2020/10/Cycode_logo.svg",
+  "privacyPolicy": "https://cycode.com/privacy-policy/",
+  "termsConditions": "https://cycode.com/terms-of-use/",
+  "webLink": "https://cycode.com",
+  "website": "https://cycode.com",
+  "_type": "cycode",
+  "aliases": []
 }

@@ -1,12 +1,12 @@
 {
-    "name": "Gather",
-    "category": "collaboration",
-    "iconWebLink": "https://assets-global.website-files.com/60ca686c96b42034829a80d3/60d4ce90230d1b9443f8fb36_Nav%20bar%20gather%20logo.svg",
-    "dataSecurity": "https://support.gather.town/help/privacy-and-security",
-    "cookiePolicy": "https://support.gather.town/help/cookies",
-    "privacyPolicy": "https://www.gather.town/privacy-policy",
-    "termsConditions": "https://www.gather.town/terms-of-service",
-    "website": "https://www.gather.town/",
-    "_type": "gather",
-    "aliases": []
+  "name": "Gather",
+  "category": "collaboration",
+  "iconWebLink": "https://assets-global.website-files.com/60ca686c96b42034829a80d3/60d4ce90230d1b9443f8fb36_Nav%20bar%20gather%20logo.svg",
+  "dataSecurity": "https://support.gather.town/help/privacy-and-security",
+  "cookiePolicy": "https://support.gather.town/help/cookies",
+  "privacyPolicy": "https://www.gather.town/privacy-policy",
+  "termsConditions": "https://www.gather.town/terms-of-service",
+  "website": "https://www.gather.town/",
+  "_type": "gather",
+  "aliases": []
 }

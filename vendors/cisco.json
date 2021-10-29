@@ -1,6 +1,6 @@
 {
-    "name": "Cisco",
-    "iconWebLink": "https://www.svgrepo.com/download/303323/cisco-2-logo.svg",
-    "_type": "cisco",
-    "aliases": []
+  "name": "Cisco",
+  "iconWebLink": "https://www.svgrepo.com/download/303323/cisco-2-logo.svg",
+  "_type": "cisco",
+  "aliases": []
 }

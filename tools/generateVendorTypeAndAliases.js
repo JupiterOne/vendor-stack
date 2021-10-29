@@ -15,7 +15,7 @@ for (const vendorFile of vendorFiles) {
   vendor.aliases = vendor.aliases ?? [];
   fs.writeFileSync(
     Path.join(vendorsPathPrefix, vendorFile),
-    JSON.stringify(vendor, null, 4)
+    JSON.stringify(vendor, null, 2)
   );
 }
 

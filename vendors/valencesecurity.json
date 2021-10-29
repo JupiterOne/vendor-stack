@@ -1,11 +1,11 @@
 {
-    "name": "Valence Security",
-    "description": "Valence identifies, inventories, and maps the interconnections of SaaS applications to bring visibility into non-human access and integrations, OAuth access tokens, API Keys, permission scopes, and workflows. Through this visibility, we can understand the last used date of tokens enabling easier revocation of dormant access, transitive permissions among SaaS apps enabling indirect data flows, and excessive permission scopes by third party apps.",
-    "iconWebLink": "https://uploads-ssl.webflow.com/612f4a80c980be21b6f88b88/61683e78f8389b573a56fae6_valence%20logo-%20dark.svg",
-    "privacyPolicy": "https://www.valencesecurity.com/terms-of-use",
-    "termsConditions": "https://www.valencesecurity.com/privacy-policy",
-    "webLink": "https://valencesecurity.com",
-    "website": "https://valencesecurity.com",
-    "_type": "valence_security",
-    "aliases": []
+  "name": "Valence Security",
+  "description": "Valence identifies, inventories, and maps the interconnections of SaaS applications to bring visibility into non-human access and integrations, OAuth access tokens, API Keys, permission scopes, and workflows. Through this visibility, we can understand the last used date of tokens enabling easier revocation of dormant access, transitive permissions among SaaS apps enabling indirect data flows, and excessive permission scopes by third party apps.",
+  "iconWebLink": "https://uploads-ssl.webflow.com/612f4a80c980be21b6f88b88/61683e78f8389b573a56fae6_valence%20logo-%20dark.svg",
+  "privacyPolicy": "https://www.valencesecurity.com/terms-of-use",
+  "termsConditions": "https://www.valencesecurity.com/privacy-policy",
+  "webLink": "https://valencesecurity.com",
+  "website": "https://valencesecurity.com",
+  "_type": "valence_security",
+  "aliases": []
 }

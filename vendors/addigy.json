@@ -1,11 +1,11 @@
 {
-    "name": "Addigy",
-    "description": "Effortlessly manage macOS, iOS, iPadOS and tvOS devices across multiple clients and locations.",
-    "iconWebLink": "https://addigy.com/wp-content/themes/addigy-2101/dist/img/logos/addigy-lockup--white--horizontal.svg",
-    "privacyPolicy": "https://addigy.com/legal/privacy-policy/",
-    "termsConditions": "https://addigy.com/terms-and-conditions/",
-    "webLink": "https://addigy.com/",
-    "website": "https://addigy.com/",
-    "_type": "addigy",
-    "aliases": []
+  "name": "Addigy",
+  "description": "Effortlessly manage macOS, iOS, iPadOS and tvOS devices across multiple clients and locations.",
+  "iconWebLink": "https://addigy.com/wp-content/themes/addigy-2101/dist/img/logos/addigy-lockup--white--horizontal.svg",
+  "privacyPolicy": "https://addigy.com/legal/privacy-policy/",
+  "termsConditions": "https://addigy.com/terms-and-conditions/",
+  "webLink": "https://addigy.com/",
+  "website": "https://addigy.com/",
+  "_type": "addigy",
+  "aliases": []
 }

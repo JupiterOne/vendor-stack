@@ -1,8 +1,8 @@
 {
-    "name": "Gong",
-    "iconWebLink": "https://www.gong.io/wp-content/themes/gong-2018/assets/img/header-logo.png",
-    "privacyPolicy": "https://www.gong.io/privacy-policy/",
-    "termsConditions": "https://www.gong.io/terms-and-conditions/",
-    "_type": "gong",
-    "aliases": []
+  "name": "Gong",
+  "iconWebLink": "https://www.gong.io/wp-content/themes/gong-2018/assets/img/header-logo.png",
+  "privacyPolicy": "https://www.gong.io/privacy-policy/",
+  "termsConditions": "https://www.gong.io/terms-and-conditions/",
+  "_type": "gong",
+  "aliases": []
 }
