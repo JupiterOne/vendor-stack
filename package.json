@@ -8,10 +8,12 @@
   "license": "MIT",
   "scripts": {
     "prepare": "husky install",
-    "validate": "node tools/validateVendors"
+    "validate": "node tools/validateVendors",
+    "test": "jest --passWithNoTests"
   },
   "devDependencies": {
     "ajv": "^8.6.3",
-    "husky": "^7.0.2"
+    "husky": "^7.0.2",
+    "jest": "^27.3.1"
   }
 }
