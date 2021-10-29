@@ -1,3 +1,3 @@
-const createVendorKeyFromName = require("./createVendorKeyFromName");
+const createVendorTypeFromName = require("./createVendorTypeFromName");
 
-module.exports = { createVendorKeyFromName }
+module.exports = { createVendorTypeFromName }

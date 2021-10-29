@@ -6,13 +6,13 @@ const vendorsPathPrefix = Path.join(__dirname, "..", "vendors");
 const vendorFiles = fs.readdirSync(vendorsPathPrefix);
 
 const vendorAliasToTypeMap = new Map()
-const filesAlreadyCached = []
+const filesAlreadyCached = new Set()
 
-const createVendorKeyFromName = (vendorName) => {
+const createVendorTypeFromName = (vendorName) => {
     if (vendorAliasToTypeMap[vendorName]) {
         return vendorAliasToTypeMap[vendorName]
     }
-    for (const vendorFile of vendorFiles.filter((file) => !filesAlreadyCached.includes(file))) {
+    for (const vendorFile of vendorFiles.filter((file) => !filesAlreadyCached.has(file))) {
         const vendor = require(Path.join(vendorsPathPrefix, vendorFile));
         for (const alias of [vendor.name, ...(vendor.alias ?? [])]) {
             vendorAliasToTypeMap.set(alias, vendor._type)
@@ -20,9 +20,9 @@ const createVendorKeyFromName = (vendorName) => {
                 return vendor._type
             }
         }
-        filesAlreadyCached.push(vendorFile)
+        filesAlreadyCached.add(vendorFile)
     }
     return vendorKeyFromName(vendorName)
 }
 
-module.exports = createVendorKeyFromName
+module.exports = createVendorTypeFromName
