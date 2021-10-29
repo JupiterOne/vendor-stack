@@ -1,11 +1,11 @@
 const fs = require("fs");
 const Path = require("path");
+const omit = require("lodash.omit");
 
 const Ajv = require("ajv");
 const StringArray = require("../schema/StringArray.json");
 const Vendor = require("../schema/Vendor.json");
 
-const omit = require("../utils/omit");
 // aliases and _type are used for mapping, no need to store on Vendor Entities.
 const PROPS_TO_OMIT = ["aliases", "_type"];
 
@@ -22,7 +22,7 @@ const invalidVendors = [];
 
 for (const vendorFile of vendorFiles) {
   const vendor = require(Path.join(vendorsPathPrefix, vendorFile));
-  const isVendorValid = validate(omit(PROPS_TO_OMIT, vendor));
+  const isVendorValid = validate(omit(vendor, PROPS_TO_OMIT));
 
   if (!isVendorValid) invalidVendors.push(vendorFile);
 }
