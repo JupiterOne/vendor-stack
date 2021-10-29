@@ -1,4 +1,6 @@
 {
-  "name": "WordPress",
-  "iconWebLink": "https://www.svgrepo.com/download/217790/wordpress.svg"
+    "name": "WordPress",
+    "iconWebLink": "https://www.svgrepo.com/download/217790/wordpress.svg",
+    "_type": "wordpress",
+    "aliases": []
 }

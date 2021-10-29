@@ -1,4 +1,6 @@
 {
-  "name": "Tackle.io",
-  "iconWebLink": ""
+    "name": "Tackle.io",
+    "iconWebLink": "",
+    "_type": "tackle.io",
+    "aliases": []
 }

@@ -1,4 +1,6 @@
 {
-  "name": "Mimecast",
-  "iconWebLink": ""
+    "name": "Mimecast",
+    "iconWebLink": "",
+    "_type": "mimecast",
+    "aliases": []
 }

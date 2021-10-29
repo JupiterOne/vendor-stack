@@ -1,4 +1,6 @@
 {
-  "name": "Google",
-  "iconWebLink": "https://www.svgrepo.com/download/304493/google.svg"
+    "name": "Google",
+    "iconWebLink": "https://www.svgrepo.com/download/304493/google.svg",
+    "_type": "google",
+    "aliases": []
 }

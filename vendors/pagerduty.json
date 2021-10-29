@@ -1,4 +1,6 @@
 {
-  "name": "PagerDuty",
-  "iconWebLink": "https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg"
+    "name": "PagerDuty",
+    "iconWebLink": "https://www.vectorlogo.zone/logos/pagerduty/pagerduty-icon.svg",
+    "_type": "pagerduty",
+    "aliases": []
 }

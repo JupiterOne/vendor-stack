@@ -1,4 +1,6 @@
 {
-  "name": "CoderPad",
-  "iconWebLink": ""
+    "name": "CoderPad",
+    "iconWebLink": "",
+    "_type": "coderpad",
+    "aliases": []
 }

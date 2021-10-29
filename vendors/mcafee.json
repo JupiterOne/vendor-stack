@@ -1,4 +1,6 @@
 {
-  "name": "McAfee",
-  "iconWebLink": ""
+    "name": "McAfee",
+    "iconWebLink": "",
+    "_type": "mcafee",
+    "aliases": []
 }

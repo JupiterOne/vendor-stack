@@ -1,5 +1,7 @@
 {
-  "name": "Bitrise",
-  "iconWebLink": "https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg",
-  "website": "https://www.bitrise.io/"
+    "name": "Bitrise",
+    "iconWebLink": "https://www.vectorlogo.zone/logos/bitriseio/bitriseio-icon.svg",
+    "website": "https://www.bitrise.io/",
+    "_type": "bitrise",
+    "aliases": []
 }

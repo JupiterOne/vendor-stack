@@ -1,4 +1,6 @@
 {
-  "name": "Culture Amp",
-  "iconWebLink": ""
+    "name": "Culture Amp",
+    "iconWebLink": "",
+    "_type": "culture_amp",
+    "aliases": []
 }

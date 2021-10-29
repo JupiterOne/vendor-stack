@@ -1,4 +1,6 @@
 {
-  "name": "Apple",
-  "iconWebLink": "https://www.svgrepo.com/download/69341/apple-logo.svg"
+    "name": "Apple",
+    "iconWebLink": "https://www.svgrepo.com/download/69341/apple-logo.svg",
+    "_type": "apple",
+    "aliases": []
 }

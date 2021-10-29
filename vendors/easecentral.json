@@ -1,4 +1,6 @@
 {
-  "name": "EaseCentral",
-  "iconWebLink": ""
+    "name": "EaseCentral",
+    "iconWebLink": "",
+    "_type": "easecentral",
+    "aliases": []
 }

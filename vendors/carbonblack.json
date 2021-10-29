@@ -1,4 +1,6 @@
 {
-  "name": "Carbon Black",
-  "iconWebLink": ""
+    "name": "Carbon Black",
+    "iconWebLink": "",
+    "_type": "carbon_black",
+    "aliases": []
 }

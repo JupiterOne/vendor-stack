@@ -4,6 +4,7 @@
   "description": "Enumeration of common technology vendors",
   "repository": "git@github.com:JupiterOne/vendor-stack.git",
   "author": "jupiterone.com",
+  "main": "src/index.js",
   "license": "MIT",
   "scripts": {
     "prepare": "husky install",

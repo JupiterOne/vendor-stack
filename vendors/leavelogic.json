@@ -1,4 +1,6 @@
 {
-  "name": "LeaveLogic",
-  "iconWebLink": ""
+    "name": "LeaveLogic",
+    "iconWebLink": "",
+    "_type": "leavelogic",
+    "aliases": []
 }

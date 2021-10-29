@@ -1,4 +1,6 @@
 {
-  "name": "HelloSign",
-  "iconWebLink": ""
+    "name": "HelloSign",
+    "iconWebLink": "",
+    "_type": "hellosign",
+    "aliases": []
 }

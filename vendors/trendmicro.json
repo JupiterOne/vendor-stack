@@ -1,4 +1,6 @@
 {
-  "name": "Trend Micro",
-  "iconWebLink": ""
+    "name": "Trend Micro",
+    "iconWebLink": "",
+    "_type": "trend_micro",
+    "aliases": []
 }

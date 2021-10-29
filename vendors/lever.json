@@ -1,10 +1,11 @@
 {
-  "name": "Lever",
-  "category": "recruiting",
-  "iconWebLink": "https://www.lever.co/wp-content/uploads/2019/03/lever_rgb_logo_standard.svg",
-  "cookiePolicy": "https://www.lever.co/cookie-policy/",
-  "privacyPolicy": "https://www.lever.co/privacy",
-  "termsConditions": "https://www.lever.co/agreements/tos/",
-  "website": "https://www.lever.co/"
+    "name": "Lever",
+    "category": "recruiting",
+    "iconWebLink": "https://www.lever.co/wp-content/uploads/2019/03/lever_rgb_logo_standard.svg",
+    "cookiePolicy": "https://www.lever.co/cookie-policy/",
+    "privacyPolicy": "https://www.lever.co/privacy",
+    "termsConditions": "https://www.lever.co/agreements/tos/",
+    "website": "https://www.lever.co/",
+    "_type": "lever",
+    "aliases": []
 }
-  

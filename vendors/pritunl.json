@@ -1,4 +1,6 @@
 {
-  "name": "Pritunl",
-  "iconWebLink": ""
+    "name": "Pritunl",
+    "iconWebLink": "",
+    "_type": "pritunl",
+    "aliases": []
 }

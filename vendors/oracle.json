@@ -1,4 +1,6 @@
 {
-  "name": "Oracle",
-  "iconWebLink": "https://www.svgrepo.com/download/306523/oracle.svg"
+    "name": "Oracle",
+    "iconWebLink": "https://www.svgrepo.com/download/306523/oracle.svg",
+    "_type": "oracle",
+    "aliases": []
 }

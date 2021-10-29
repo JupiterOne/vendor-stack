@@ -1,4 +1,6 @@
 {
-  "name": "DocuSign",
-  "iconWebLink": ""
+    "name": "DocuSign",
+    "iconWebLink": "",
+    "_type": "docusign",
+    "aliases": []
 }

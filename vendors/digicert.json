@@ -1,4 +1,6 @@
 {
-  "name": "DigiCert",
-  "iconWebLink": ""
+    "name": "DigiCert",
+    "iconWebLink": "",
+    "_type": "digicert",
+    "aliases": []
 }

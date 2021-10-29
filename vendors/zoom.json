@@ -1,14 +1,16 @@
 {
-  "name": "Zoom",
-  "category": "collaboration",
-  "iconWebLink": "https://www.svgrepo.com/download/305632/zoom.svg",
-  "dataSecurity": "https://zoom.us/trust/security",
-  "linkToBAA": "https://support.zoom.us/hc/en-us/articles/207652183-HIPAA-Business-Associate-Agreement-BAA-",
-  "linkToDPA": "https://zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf",
-  "linkToISA": "https://zoom.us/trust/legal-compliance#certifications",
-  "cookiePolicy": "https://zoom.us/cookie-policy",
-  "privacyPolicy": "https://zoom.us/privacy",
-  "subprocessors": "https://zoom.us/subprocessors",
-  "termsConditions": "https://zoom.us/terms",
-  "website": "zoom.us"
+    "name": "Zoom",
+    "category": "collaboration",
+    "iconWebLink": "https://www.svgrepo.com/download/305632/zoom.svg",
+    "dataSecurity": "https://zoom.us/trust/security",
+    "linkToBAA": "https://support.zoom.us/hc/en-us/articles/207652183-HIPAA-Business-Associate-Agreement-BAA-",
+    "linkToDPA": "https://zoom.us/docs/doc/Zoom_GLOBAL_DPA.pdf",
+    "linkToISA": "https://zoom.us/trust/legal-compliance#certifications",
+    "cookiePolicy": "https://zoom.us/cookie-policy",
+    "privacyPolicy": "https://zoom.us/privacy",
+    "subprocessors": "https://zoom.us/subprocessors",
+    "termsConditions": "https://zoom.us/terms",
+    "website": "zoom.us",
+    "_type": "zoom",
+    "aliases": []
 }

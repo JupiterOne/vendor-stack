@@ -1,4 +1,6 @@
 {
-  "name": "Mark Monitor",
-  "iconWebLink": ""
+    "name": "Mark Monitor",
+    "iconWebLink": "",
+    "_type": "mark_monitor",
+    "aliases": []
 }
