@@ -8,6 +8,12 @@ and this project adheres to
 
 ## [Unreleased]
 
+## 2.0.0 - 2021-11-01
+
+### Changed
+
+- `createVendorTypeFromName` now returns `undefined` if a matching vendor is not found.
+
 ## 1.0.0 - 2021-10-29
 
 ### Added
