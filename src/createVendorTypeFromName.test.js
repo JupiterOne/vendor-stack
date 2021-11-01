@@ -3,10 +3,6 @@ const fs = require("fs");
 const Path = require("path");
 
 describe('#createVendorTypeFromName', () => {
-    it('should default to snake_case', () => {
-        expect(createVendorTypeFromName('something ThaT Does NoT HaVE A Matching Vendor')).toBe('something_that_does_not_have_a_matching_vendor')
-    })
-
     const vendorsPathPrefix = Path.join(__dirname, "..", "vendors");
     const vendorFiles = fs.readdirSync(vendorsPathPrefix);
     for (const vendorFile of vendorFiles) {
@@ -17,4 +13,7 @@ describe('#createVendorTypeFromName', () => {
             })
         }
     }
+    it('should default to undefined', () => {
+        expect(createVendorTypeFromName('something ThaT Does NoT HaVE A Matching Vendor')).toBeUndefined()
+    })
 })

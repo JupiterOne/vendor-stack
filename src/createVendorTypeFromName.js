@@ -22,7 +22,6 @@ const createVendorTypeFromName = (vendorName) => {
         }
         filesAlreadyCached.add(vendorFile)
     }
-    return vendorKeyFromName(vendorName)
 }
 
 module.exports = createVendorTypeFromName
