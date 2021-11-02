@@ -1,6 +1,9 @@
 {
   "name": "GitHub",
   "iconWebLink": "https://www.svgrepo.com/download/303615/github-icon-1-logo.svg",
+  "linkToISA": "https://github.com/security",
+  "linkToDPA": "https://docs.github.com/en/github/site-policy/github-data-protection-agreement",
+  "linkToSLA": "https://docs.github.com/en/github/site-policy/github-terms-of-service",
   "_type": "github",
   "aliases": []
 }

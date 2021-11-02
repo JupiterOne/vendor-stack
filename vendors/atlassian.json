@@ -1,6 +1,10 @@
 {
   "name": "Atlassian",
   "iconWebLink": "https://worldvectorlogo.com/download/atlassian-1.svg",
+  "linkToISA": "https://www.atlassian.com/trust/compliance",
+  "linkToDPA": "https://www.atlassian.com/legal/data-processing-addendum",
+  "linkToMSA": "https://www.atlassian.com/legal/software-license-agreement",
+  "linkToSLA": "https://www.atlassian.com/legal/sla",
   "_type": "atlassian",
   "aliases": []
 }

@@ -1,6 +1,9 @@
 {
   "name": "Culture Amp",
   "iconWebLink": "",
+  "linkToISA": "https://www.cultureamp.com/data-privacy",
+  "linkToDPA": "https://www.cultureamp.com/privacy-policy",
+  "linkToSLA": "https://www.cultureamp.com/terms",
   "_type": "culture_amp",
   "aliases": []
 }
