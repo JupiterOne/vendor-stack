@@ -1,6 +1,9 @@
 {
   "name": "Google",
   "iconWebLink": "https://www.svgrepo.com/download/304493/google.svg",
+  "linkToISA": "https://business.safety.google/compliance/",
+  "linkToDPA": "https://workspace.google.com/terms/dpa_terms.html",
+  "linkToSLA": "https://workspace.google.com/terms/sla.html",
   "_type": "google",
   "aliases": []
 }

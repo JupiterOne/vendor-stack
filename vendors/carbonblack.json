@@ -1,6 +1,8 @@
 {
   "name": "Carbon Black",
   "iconWebLink": "",
+  "linkToDPA": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/vmware-data-processing-addendum.pdf",
+  "linkToSLA": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/vmw-carbon-black-hosted-edr-service-agreement.pdf",
   "_type": "carbon_black",
   "aliases": []
 }
