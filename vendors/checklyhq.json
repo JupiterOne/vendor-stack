@@ -1,0 +1,9 @@
+{
+  "name": "Checkly",
+  "iconWebLink": "https://www.checklyhq.com/images/text_racoon_logo.afa37391.svg",
+  "linkToSLA": "https://www.checklyhq.com/terms",
+  "privacyPolicy": "https://www.checklyhq.com/privacy/",
+  "dataSecurity": "https://www.checklyhq.com/security/",
+  "_type": "checkly",
+  "aliases": []
+}
