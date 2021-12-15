@@ -1,0 +1,14 @@
+{
+  "name": "Databricks",
+  "cookiePolicy": "https://databricks.com/cookie-policy",
+  "description": "Databricks offers an open and unified platform for data and AI.",
+  "iconWebLink": "https://databricks.com/wp-content/uploads/2021/10/db-nav-logo.svg",
+  "linkToMSA": "https://databricks.com/mcsa",
+  "linkToDPA": "https://databricks.com/non-platform-dpa",
+  "privacyPolicy": "https://databricks.com/privacypolicy",
+  "termsConditions": "https://databricks.com/terms-of-use",
+  "webLink": "https://https://databricks.com",
+  "website": "https://databricks.com",
+  "_type": "databricks",
+  "aliases": []
+}
