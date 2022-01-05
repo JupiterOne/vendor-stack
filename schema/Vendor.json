@@ -48,6 +48,9 @@
     "linkToSLA": {
       "$ref": "StringArray"
     },
+    "linkToSBOM": {
+      "$ref": "StringArray"
+    },
     "cookiePolicy": {
       "type": "string"
     },
