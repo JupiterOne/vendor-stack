@@ -1,6 +1,6 @@
 {
   "name": "Carbon Black",
-  "productCapabilities": ["anti-malware", "av", "edr", "endpoint detection", "endpoint response", "etdr"],
+  "productCapabilities": ["anti-malware", "anti-virus", "av", "edr", "endpoint detection", "endpoint response", "endpoint detection and response", "endpoint threat detection and response"],
   "description": "VMware Carbon Black Endpoint consolidates multiple endpoint security capabilities using one agent and console.",
   "iconWebLink": "",
   "webLink": "https://www.vmware.com/products/carbon-black-cloud-endpoint.html",
