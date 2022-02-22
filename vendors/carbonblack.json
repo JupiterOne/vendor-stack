@@ -1,8 +1,19 @@
 {
   "name": "Carbon Black",
+  "productCapabilities": ["anti-malware", "av", "edr", "endpoint detection", "endpoint response", "etdr"],
+  "description": "VMware Carbon Black Endpoint consolidates multiple endpoint security capabilities using one agent and console.",
   "iconWebLink": "",
+  "webLink": "https://www.vmware.com/products/carbon-black-cloud-endpoint.html",
+  "website": "https://www.vmware.com/products/carbon-black-cloud-endpoint.html",
   "linkToDPA": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/vmware-data-processing-addendum.pdf",
   "linkToSLA": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/vmw-carbon-black-hosted-edr-service-agreement.pdf",
   "_type": "carbon_black",
-  "aliases": []
+  "aliases": ["confer", "bit9 + carbon black", "vmware carbon black"],
+  "cyberDefenseMatrixMap": {
+    "devices": ["protect", "detect", "respond"],
+    "applications": [],
+    "networks": [],
+    "data": [],
+    "users": []
+  }
 }
