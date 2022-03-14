@@ -1,0 +1,22 @@
+{
+  "name": "Grip Security",
+  "productCapabilities": ["saas discovery", "saas access management", "saas security"],
+  "description": "Grip Security provides visibility, governance, and data security to help organizations secure their SaaS ecosystem.",
+  "iconWebLink": "",
+  "webLink": "https://www.grip.security/",
+  "website": "https://www.grip.security/",
+  "linkToDPA": "https://www.grip.security/privacy-policy",
+  "linkToSLA": "https://www.grip.security/terms-of-service",
+  "_type": "grip_security",
+  "dataType": ["email", "oidc_logs"],
+  "dataClassification": "internal",
+  "aliases": "",
+  "cyberDefenseMatrixMap": {
+    "assetOwner": ["third-party"],
+    "devices": [],
+    "applications": ["identify", "protect"],
+    "networks": [],
+    "data": [],
+    "users": []
+  }
+}
