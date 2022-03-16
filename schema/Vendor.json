@@ -18,6 +18,12 @@
     "dataSecurity": {
       "type": "string"
     },
+    "dataType": {
+      "$ref": "StringArray"
+    },
+    "dataClassification": {
+      "$ref": "StringArray"
+    },
     "description": {
       "type": "string"
     },
