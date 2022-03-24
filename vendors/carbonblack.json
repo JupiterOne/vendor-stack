@@ -7,6 +7,7 @@
   "website": "https://www.vmware.com/products/carbon-black-cloud-endpoint.html",
   "linkToDPA": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/vmware-data-processing-addendum.pdf",
   "linkToSLA": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/vmw-carbon-black-hosted-edr-service-agreement.pdf",
+  "subprocessors": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/vmware-carbon-black-cloud-sub-processors-jan-2020.pdf",
   "_type": "carbon_black",
   "aliases": ["confer", "bit9 + carbon black", "vmware carbon black"],
   "cyberDefenseMatrixMap": {
