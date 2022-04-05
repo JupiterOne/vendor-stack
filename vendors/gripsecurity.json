@@ -11,6 +11,5 @@
   "dataType": ["email", "oidc_logs"],
   "dataClassification": "internal",
   "aliases": "",
-  "cyberDefenseMatrixMapping": ["application-identify", "application-protect"],
-  "cyberDefenseMatrixOwner": "third-party"
+  "cyberDefenseMatrixMapping": ["third-party:application:identify", "third-party:application:protect"],
 }
