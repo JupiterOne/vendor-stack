@@ -1,0 +1,14 @@
+{
+  "name": "Cobalt",
+  "category": "Bug Bounty",
+  "description": "Modern pentesting for security and development teams.",
+  "iconWebLink": "https://www.svgrepo.com/download/353568/cobalt.svg",
+  "linkToDPA": "https://www.cobalt.io/terms",
+  "linkToMSA": "https://www.cobalt.io/terms",
+  "privacyPolicy": "https://www.cobalt.io/terms",
+  "termsConditions": "https://www.cobalt.io/terms",
+  "webLink": "https://app.cobalt.io/",
+  "website": "https://www.cobalt.io",
+  "_type": "cobalt",
+  "aliases": []
+}
