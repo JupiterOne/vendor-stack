@@ -1,0 +1,16 @@
+{
+  "name": "BugCrowd",
+  "category": "Bug Bounty",
+  "description": "SaaS-based platform brings crowdsourced penetration testing, rapid triage, and insights to assist with security throughout your SDLC.",
+  "iconWebLink": "https://www.bugcrowd.com/wp-content/uploads/2019/04/bugcrowd-logo.svg",
+  "linkToDPA": "https://www.bugcrowd.com/wp-content/uploads/2022/04/Bugcrowd-DPA-Customers.pdf",
+  "linkToMSA": "https://www.bugcrowd.com/termsandconditions/",
+  "linkToSLA": "https://www.bugcrowd.com/termsandconditions/",
+  "privacyPolicy": "https://www.bugcrowd.com/privacy/",
+  "statusPage": "https://bugcrowd.com/statuspage",
+  "termsConditions": "https://www.bugcrowd.com/termsandconditions/",
+  "webLink": "https://tracker.bugcrowd.com/",
+  "website": "https://bugcrowd.com/",
+  "_type": "bugcrowd",
+  "aliases": []
+}
