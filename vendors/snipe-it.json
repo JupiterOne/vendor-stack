@@ -1,0 +1,11 @@
+{
+  "name": "Snipe-IT",
+  "category": "Asset Inventory",
+  "description": "IT asset management.",
+  "privacyPolicy": "https://snipeitapp.com/privacy",
+  "statusPage": "https://status.snipeitapp.com/",
+  "webLink": "https://snipeitapp.com",
+  "website": "https://snipeitapp.com",
+  "_type": "snipeit",
+  "aliases": []
+}
