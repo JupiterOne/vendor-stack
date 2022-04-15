@@ -1,0 +1,16 @@
+{
+  "name": "Slack",
+  "category": "Chat Platform",
+  "description": "Slack is a messaging app for business that connects people to the information they need.",
+  "iconWebLink": "https://worldvectorlogo.com/download/slack-new-logo.svg",
+  "linkToDPA": "https://slack.com/terms-of-service/data-processing",
+  "linkToMSA": "https://slack.com/terms-of-service",
+  "linkToSLA": "https://slack.com/terms/service-level-agreement",
+  "privacyPolicy": "https://slack.com/privacy-policy",
+  "statusPage": "https://status.slack.com/",
+  "termsConditions": "https://slack.com/terms-of-service/user",
+  "webLink": "https://slack.com/",
+  "website": "https://slack.com/",
+  "_type": "slack",
+  "aliases": []
+}
