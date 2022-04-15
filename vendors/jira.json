@@ -1,0 +1,16 @@
+{
+  "name": "Jira",
+  "category": "Issue Tracker",
+  "description": "Modern pentesting for security and development teams.",
+  "iconWebLink": "https://worldvectorlogo.com/download/jira-1.svg",
+  "linkToDPA": "https://www.atlassian.com/legal/data-processing-addendum",
+  "linkToMSA": "https://www.atlassian.com/legal/software-license-agreement",
+  "linkToSLA": "https://support.atlassian.com/subscriptions-and-billing/docs/service-level-agreement-for-atlassian-cloud-products/",
+  "privacyPolicy": "https://www.atlassian.com/legal/privacy-policy",
+  "statusPage": "https://status.atlassian.com/",
+  "termsConditions": "https://www.atlassian.com/legal/cloud-terms-of-service",
+  "webLink": "https://start.atlassian.com/",
+  "website": "https://www.atlassian.com/software/jira",
+  "_type": "jira",
+  "aliases": []
+}

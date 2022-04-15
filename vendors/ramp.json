@@ -1,0 +1,13 @@
+{
+  "name": "Ramp",
+  "category": "Expense Reporting",
+  "description": "Finance automation platform.",
+  "iconWebLink": "https://assets-global.website-files.com/62278395da224f20d93b996a/62278395da224f5fbc3b9db1_ramp%20logo.svg",
+  "linkToMSA": "https://ramp.com/legal/platform-agreement",
+  "privacyPolicy": "https://ramp.com/legal/privacy-policy",
+  "termsConditions": "https://ramp.com/legal/platform-agreement",
+  "webLink": "https://app.ramp.com/",
+  "website": "https://ramp.com/",
+  "_type": "ramp",
+  "aliases": []
+}

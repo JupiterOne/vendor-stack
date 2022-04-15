@@ -1,0 +1,16 @@
+{
+  "name": "Cloudflare",
+  "category": "WAF",
+  "description": "Cloudflare protects Internet properties from malicious activity like DDoS attacks, malicious bots, and other nefarious intrusions.",
+  "iconWebLink": "https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg",
+  "linkToDPA": "https://www.cloudflare.com/cloudflare-customer-dpa/",
+  "linkToMSA": "https://www.cloudflare.com/terms/",
+  "linkToSLA": "https://www.cloudflare.com/business-sla/",
+  "privacyPolicy": "https://www.cloudflare.com/privacypolicy/",
+  "statusPage": "https://www.cloudflarestatus.com/",
+  "termsConditions": "https://www.cloudflare.com/terms/",
+  "webLink": "https://dash.cloudflare.com/",
+  "website": "https://www.cloudflare.com/",
+  "_type": "cloudflare",
+  "aliases": []
+}

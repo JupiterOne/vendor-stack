@@ -1,0 +1,16 @@
+{
+  "name": "KnowBe4",
+  "category": "Security Awareness Training",
+  "description": "KnowBe4 enables your employees to make smarter security decisions, every day.",
+  "iconWebLink": "https://www.vectorlogo.zone/logos/knowbe4/knowbe4-ar21.svg",
+  "linkToDPA": "https://www.knowbe4.com/global-data-processing-addendum",
+  "linkToMSA": "https://www.knowbe4.com/terms",
+  "linkToSLA": "https://www.knowbe4.com/terms",
+  "privacyPolicy": "https://www.knowbe4.com/product-privacy-notice",
+  "statusPage": "https://status.knowbe4.com/",
+  "termsConditions": "https://www.knowbe4.com/terms",
+  "webLink": "https://training.knowbe4.com/",
+  "website": "https://knowbe4.com/",
+  "_type": "knowbe4",
+  "aliases": []
+}
