@@ -1,0 +1,16 @@
+{
+  "name": "Zendesk",
+  "category": "Issue Tracking",
+  "description": "Zendesk is a cloud-based help desk management solution.",
+  "iconWebLink": "https://web-assets.zendesk.com/images/navigation/header/zendesk-logo.svg",
+  "linkToDPA": "https://www.zendesk.com/company/privacy-and-data-protection/",
+  "linkToMSA": "https://www.zendesk.com/company/agreements-and-terms/master-subscription-agreement/",
+  "linkToSLA": "https://www.zendesk.com/company/sunshine-conversations-enterprise-sla/",
+  "privacyPolicy": "https://www.zendesk.com/company/agreements-and-terms/privacy-policy/",
+  "statusPage": "https://www.zendesk.com/company/agreements-and-terms/privacy-policy/",
+  "termsConditions": "https://www.zendesk.com/company/agreements-and-terms/terms-of-use/",
+  "webLink": "https://www.zendesk.com/",
+  "website": "https://www.zendesk.com/",
+  "_type": "zendesk",
+  "aliases": []
+}
