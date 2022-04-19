@@ -10,5 +10,5 @@
   "subprocessors": "https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/downloads/eula/vmware-carbon-black-cloud-sub-processors-jan-2020.pdf",
   "_type": "carbon_black",
   "aliases": ["confer", "bit9 + carbon black", "vmware carbon black"],
-  "cyberDefenseMatrixMapping": ["third-party:device:protect", "third-party:device:detect", "third-party:device:respond"]
+  "cyberDefenseMatrixMapping": ["enterprise:device:protect", "enterprise:device:detect", "enterprise:device:respond"]
 }
