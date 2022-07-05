@@ -1,0 +1,16 @@
+{
+  "$id": "VendorProduct",
+  "description": "A JSON schema for Vendor Products.",
+  "type": "object",
+  "required": [
+    "name"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "linkToSBOM": {
+      "$ref": "StringArray"
+    }
+  }
+}
