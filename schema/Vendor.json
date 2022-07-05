@@ -54,9 +54,6 @@
     "linkToSLA": {
       "$ref": "StringArray"
     },
-    "linkToSBOM": {
-      "$ref": "StringArray"
-    },
     "cookiePolicy": {
       "type": "string"
     },
@@ -77,6 +74,12 @@
     },
     "website": {
       "$ref": "StringArray"
+    },
+    "products": {
+      "type": "array",
+      "items": {
+        "$ref": "VendorProduct"
+      }
     }
   }
 }
