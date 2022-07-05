@@ -11,6 +11,9 @@
     },
     "linkToSBOM": {
       "$ref": "StringArray"
+    },
+    "webLink": {
+      "type": "string"
     }
   }
 }
