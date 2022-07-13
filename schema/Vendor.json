@@ -27,15 +27,6 @@
     "description": {
       "type": "string"
     },
-    "fedrampATO": {
-      "type": "boolean"
-    },
-    "fedrampLevel": {
-      "type": "string"
-    },
-    "fedrampReady": {
-      "type": "string"
-    },
     "iconWebLink": {
       "type": "string"
     },
@@ -58,9 +49,6 @@
       "type": "string"
     },
     "privacyPolicy": {
-      "type": "string"
-    },
-    "statusPage": {
       "type": "string"
     },
     "subprocessors": {
