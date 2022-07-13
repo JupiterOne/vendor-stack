@@ -9,8 +9,38 @@
     "name": {
       "type": "string"
     },
+    "category": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "dataType": {
+      "$ref": "StringArray"
+    },
+    "dataClassification": {
+      "$ref": "StringArray"
+    },
+    "fedrampATO": {
+      "type": "boolean"
+    },
+    "fedrampLevel": {
+      "type": "string"
+    },
+    "fedrampReady": {
+      "type": "string"
+    },
+    "iconWebLink": {
+      "type": "string"
+    },
     "linkToSBOM": {
       "$ref": "StringArray"
+    },
+    "statusPage": {
+      "type": "string"
+    },
+    "termsConditions": {
+      "type": "string"
     },
     "webLink": {
       "type": "string"
