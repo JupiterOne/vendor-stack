@@ -1,0 +1,28 @@
+{
+  "name": "SentinelOne.com",
+  "iconWebLink": "https://usea1-016.sentinelone.net/favicon.ico",
+  "linkToDPA": "https://www.sentinelone.com/legal/data-protection-addendum/",
+  "privacyPolicy": "https://www.sentinelone.com/legal/privacy-policy/",
+  "cookiePolicy": "https://www.sentinelone.com/legal/sentinelone-cookie-policy/",
+  "linkToMSA": "https://www.sentinelone.com/legal/master-subscription-agreement/",
+  "termsConditions": "https://www.sentinelone.com/legal/terms-of-service/",
+  "dataSecurity": "https://www.sentinelone.com/security-compliance/",
+  "description": "The SentinelOne Singularity XDR Platform unifies AI-powered prevention (EPP), endpoint detection and response (EDR), containers, network attack surface management, and cloud workload protection in a single, autonomous XDR platform.",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-1382",
+  "subprocessors": [
+                    "Amazon Web Services, Inc", 
+                    "Zendesk Inc.", 
+                    "ShareFile LLC",
+                    "Atlassian Inc. (Jira)",
+                    "Zimperium, Inc.",
+                    "Twilio, Inc. (SendGrid)",
+                    "Jetbrains s.r.o (Youtrack)"
+                  ],
+  "reviewed": true,
+  "selected": true,
+  "validated": true,
+  "opensource": false,
+  "website": "sentinelone.com",
+  "_type": "sentinelone.com",
+  "aliases": []
+}
