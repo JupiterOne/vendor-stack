@@ -1,0 +1,14 @@
+{
+    "name": "Finch",
+    "description": "Securely access your customers’ census, payroll, and benefits data across 150+ HRIS and payroll systems with a single integration.",
+    "iconWebLink": "https://tryfinch.com/favicon.ico",
+    "privacyPolicy": "https://tryfinch.com/privacy",
+    "dataSecurity": "https://tryfinch.com/company/security",
+    "subprocessors": "https://tryfinch.notion.site/Finch-Authorized-Sub-Processors-4577a7417b2c4b15bdf7b249b30f236d",
+    "termsConditions": "https://tryfinch.com/terms",
+    "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-1382",
+    "webLink": "https://tryfinch.com/",
+    "website":  "https://tryfinch.com/",
+    "_type": "finch",
+    "aliases": []
+}
