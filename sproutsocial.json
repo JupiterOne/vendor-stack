@@ -1,0 +1,17 @@
+{
+    "name": "Sprout Social",
+    "category": "Social Media Management System",
+    "description": "Our all-in-one social media management platform unlocks the full potential of social to transform not just your marketing strategy—but every area of your organization.",
+    "iconWebLink": "https://sproutsocial.com/favicon.ico",
+    "linkToDPA": "https://media.sproutsocial.com/uploads/Downloadable-Customer-DPA.pdf",
+    "dataSecurity": "https://sproutsocial.com/security/",
+    "privacyPolicy": "https://sproutsocial.com/privacy-policy/",
+    "cookiePolicy": "https://sproutsocial.com/cookie-notice/",
+    "subprocessors": "https://sproutsocial.com/subprocessors/",
+    "termsConditions": "https://sproutsocial.com/terms/",
+    "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-1883",
+    "webLink": "https://sproutsocial.com/",
+    "website": "https://sproutsocial.com/",
+    "_type": "sprout_social",
+    "aliases": []
+}
