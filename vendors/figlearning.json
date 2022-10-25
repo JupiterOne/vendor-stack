@@ -1,0 +1,13 @@
+{
+  "name": "FigLearning",
+  "category": "Learning Management System",
+  "description": "Fig Learning partners exclusively with small to mid-sized businesses (SMBs) to build personalized online learning experiences that solve core business challenges, such as, onboarding, compliance training, and talent development.",
+  "iconWebLink": "https://static.wixstatic.com/media/9d4b6f_d1f97f9f7cf74778988e3a3e1daf1ef2~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/9d4b6f_d1f97f9f7cf74778988e3a3e1daf1ef2~mv2.png",
+  "privacyPolicy": "https://www.figlearning.com/privacy-policy",
+  "termsConditions": "https://drive.google.com/file/d/1Ldw-KoOHD5bOX6sWvgWtB9gyFyRIOqoH/view",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-1820",
+  "webLink": "https://www.figlearning.com",
+  "website": "https://www.figlearning.com",
+  "_type": "figlearning",
+  "aliases": []
+}
