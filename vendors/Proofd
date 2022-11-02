@@ -1,0 +1,13 @@
+{
+  "name": "Proof'd",
+  "description": "Proof'd offers 'robotic exploratory testing' to monitor your application for changes",
+  "iconWebLink": "https://pbs.twimg.com/profile_images/1375944100390825984/YqxQKX3w_400x400.jpg",
+  "privacyPolicy": "https://proofd.com/privacy/",
+  "termsConditions": "https://proofd.com/terms/",
+  "dataSecurity": "https://proofd.com/security/",
+  "reviewLink": "https://jupiterone.atlassian.net/jira/software/c/projects/DESK/boards/61?modal=detail&selectedIssue=DESK-1714&search=proof%27d",
+  "webLink": "https://proofd.com",
+  "website": "https://proofd.com",
+  "_type": "Proofd",
+  "aliases": [],
+  }
