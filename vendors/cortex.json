@@ -1,0 +1,13 @@
+{
+  "name": "Cortex",
+  "description": "Cortex makes it easy for engineering organizations to gain visibility into their services and deliver high quality software.",
+  "iconWebLink": "https://assets.website-files.com/5f81b56bfacc3a0b84550bbd/5ff81e1907605ca9863ab30b_32.png",
+  "privacyPolicy": "https://www.cortex.io/privacy-policy",
+  "termsConditions": "https://www.cortex.io/terms-of-service",
+  "dataSecurity": "https://www.cortex.io/security-policy",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-1164",
+  "webLink": "https://www.cortex.io/",
+  "website": "https://www.cortex.io/",
+  "_type": "cortex",
+  "aliases": []
+}
