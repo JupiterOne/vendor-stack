@@ -1,0 +1,14 @@
+{
+  "name": "PartnerStack",
+  "description": "PartnerStack is the only platform that automates and scales your entire partner ecosystem to drive more revenue in half the usual time and cost.",
+  "iconWebLink": "https://assets.website-files.com/62f26b9536bf0cd9c58b2b1a/62f26b9536bf0c27e78b2e49_webclip.png",
+  "privacyPolicy": "https://partnerstack.com/policies#privacy-policy",
+  "termsConditions": "https://partnerstack.com/policies",
+  "dataSecurity": "https://partnerstack.com/policies#security-practices",
+  "subprocessors": "https://partnerstack.com/policies#partnerstack-subprocessors",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2067",
+  "webLink": "https://partnerstack.com/",
+  "website": "https://partnerstack.com/",
+  "_type": "partnerstack",
+  "aliases": []
+}
