@@ -1,0 +1,13 @@
+{
+  "name": "Stack Overflow",
+  "description": "Stack Overflow  for  Teams  Enterprise  offers  enterprises  a  secure  standalone,  scalable,  knowledge-based  Q&A  environment for remote teams and customer success to communicate.",
+  "iconWebLink": "https://stackoverflow.com//favicon.ico",
+  "privacyPolicy": "https://stackoverflow.com/legal/privacy-policy",
+  "termsConditions": "https://stackoverflow.com/legal/terms-of-service",
+  "cookiePolicy": "https://stackoverflow.com/legal/cookie-policy",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2098",
+  "webLink": "https://stackoverflow.com/",
+  "website": "https://stackoverflow.com/",
+  "_type": "stack_overflow",
+  "aliases": []
+}
