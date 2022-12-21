@@ -1,0 +1,13 @@
+{
+  "name": "Panther",
+  "description": "Panther alleviates the pain of traditional SIEMs with detection-as-code, a robust security data lake, and high scalability.",
+  "iconWebLink": "https://panther.com/favicon.ico",
+  "privacyPolicy": "https://panther.com/privacy-policy/",
+  "termsConditions": "https://panther.com/terms-of-service/",
+  "dataSecurity": "https://panther.com/company/trust/",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2275",
+  "webLink": "https://panther.com/",
+  "website": "https://panther.com/",
+  "_type": "Panther",
+  "aliases": []
+}
