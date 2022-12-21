@@ -1,0 +1,12 @@
+{
+  "name": "Mimestream",
+  "description": "A native macOS email client for Gmail",
+  "privacyPolicy": "https://mimestream.com/privacy",
+  "termsConditions": "https://mimestream.com/terms",
+  "dataSecurity": "https://mimestream.com/faqs",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2482",
+  "webLink": "https://mimestream.com/",
+  "website": "https://mimestream.com/",
+  "_type": "mimestream",
+  "aliases": []
+}
