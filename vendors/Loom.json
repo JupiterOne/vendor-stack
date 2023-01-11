@@ -1,0 +1,13 @@
+{
+  "name": "Loom",
+  "description": "Duo Federal MFA to ensure only trusted users and trusted devices can access protected applications.",
+  "iconWebLink": "https://cdn.loom.com/assets/favicons-loom/favicon-32x32.png",
+  "privacyPolicy": "https://www.loom.com/privacy-policy",
+  "termsConditions": "https://www.loom.com/terms",
+  "dataSecurity": "https://www.loom.com/security",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2547",
+  "webLink": "https://www.loom.com/",
+  "website": "https://www.loom.com/",
+  "_type": "Loom",
+  "aliases": []
+}
