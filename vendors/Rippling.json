@@ -1,0 +1,13 @@
+{
+  "name": "Rippling",
+  "description": "Rippling lets you easily manage your employees’ payroll, benefits, expenses, devices, apps & more—in one place.",
+  "iconWebLink": "https://www.rippling.com/favicons/favicon-32x32.png",
+  "privacyPolicy": "https://app.rippling.com/legal/privacy",
+  "termsConditions": "https://app.rippling.com/legal/:tab",
+  "dataSecurity": "https://go.rippling.com/rs/345-FHM-674/images/PM_WP_Security-Program_100120.pdf",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2635",
+  "webLink": "https://www.rippling.com/",
+  "website": "https://www.rippling.com/",
+  "_type": "Rippling",
+  "aliases": []
+}
