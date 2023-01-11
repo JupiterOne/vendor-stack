@@ -1,0 +1,13 @@
+{
+  "name": "Anrok",
+  "description": "Anrok automates sales tax compliance across your financial stack, so you can grow your SaaS business in any market.",
+  "iconWebLink": "https://global-uploads.webflow.com/632add85afcd1ac30aa74675/635823877fe98d472dcd18d7_anrok_favicon.png",
+  "privacyPolicy": "https://www.anrok.com/privacy-terms",
+  "termsConditions": "https://www.anrok.com/privacy-terms",
+  "dataSecurity": "https://www.anrok.com/security",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2541",
+  "webLink": "https://www.anrok.com/",
+  "website": "https://www.anrok.com/",
+  "_type": "Anrok",
+  "aliases": []
+}
