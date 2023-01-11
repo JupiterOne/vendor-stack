@@ -1,0 +1,13 @@
+{
+  "name": "Cypress",
+  "description": "With Cypress, you can easily create tests for your modern web applications, debug them visually, and automatically run them in your continous integration builds.",
+  "iconWebLink": "https://www.cypress.io/favicon.ico",
+  "privacyPolicy": "https://www.cypress.io/privacy-policy/",
+  "termsConditions": "https://www.cypress.io/terms-of-use/",
+  "dataSecurity": "https://www.cypress.io/security",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2544",
+  "webLink": "https://www.cypress.io/",
+  "website": "https://www.cypress.io/",
+  "_type": "Cypress",
+  "aliases": []
+}
