@@ -1,0 +1,13 @@
+{
+  "name": "OpenRefine",
+  "description": "OpenRefine is a powerful free, open source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.",
+  "iconWebLink": "https://openrefine.org/img/openrefine_logo.svg",
+  "privacyPolicy": "https://openrefine.org/privacy",
+  "termsConditions": "https://github.com/OpenRefine/OpenRefine",
+  "dataSecurity": "https://github.com/OpenRefine/OpenRefine/security/policy",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2536",
+  "webLink": "https://openrefine.org/",
+  "website": "https://openrefine.org/",
+  "_type": "OpenRefine",
+  "aliases": []
+}
