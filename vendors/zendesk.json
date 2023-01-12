@@ -9,6 +9,7 @@
   "privacyPolicy": "https://www.zendesk.com/company/agreements-and-terms/privacy-policy/",
   "statusPage": "https://www.zendesk.com/company/agreements-and-terms/privacy-policy/",
   "termsConditions": "https://www.zendesk.com/company/agreements-and-terms/terms-of-use/",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2595",
   "webLink": "https://www.zendesk.com/",
   "website": "https://www.zendesk.com/",
   "_type": "zendesk",
