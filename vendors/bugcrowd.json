@@ -9,6 +9,7 @@
   "privacyPolicy": "https://www.bugcrowd.com/privacy/",
   "statusPage": "https://bugcrowd.com/statuspage",
   "termsConditions": "https://www.bugcrowd.com/termsandconditions/",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2634"
   "webLink": "https://tracker.bugcrowd.com/",
   "website": "https://bugcrowd.com/",
   "_type": "bugcrowd",
