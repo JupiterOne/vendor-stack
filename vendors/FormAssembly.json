@@ -1,0 +1,16 @@
+{
+  "name": "FormAssembly",
+  "description": "Web-based data collection application that is offered as a SaaS solution..",
+  "iconWebLink": "https://www.formassembly.com/wp-content/themes/formassembly/fav/favicon-formassembly-mark-2022.png",
+  "privacyPolicy": "https://www.formassembly.com/privacy-policy/",
+  "subprocessors": "https://security.formassembly.com/?itemUid=e3fae2ca-94a9-416b-b577-5c90e382df57",
+  "linkToISA": "https://security.formassembly.com/",
+  "linkToDPA": "https://www.formassembly.com/data-processing-agreement/",
+  "linkToMSA": "https://www.formassembly.com/enterprise/agreement/",
+  "statusPage": "https://status.formassembly.com/",
+  "termsConditions": "https://www.formassembly.com/terms-of-service/",
+  "webLink": "https://formassembly.com/",
+  "website": "https://formassembly.com/",
+  "_type": "formassembly",
+  "aliases": []
+}
