@@ -1,0 +1,12 @@
+{
+  "name": "ReGraph",
+  "description": "ReGraph makes it easy to build powerful React graph visualization applications.",
+  "iconWebLink": "https://regraph.io/favicon.ico",
+  "privacyPolicy": "https://cambridge-intelligence.com/privacy-policy/",
+  "dataSecurity": "https://regraph.io/login#security",
+  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2549",
+  "webLink": "https://regraph.io",
+  "website": "https://regraph.io",
+  "_type": "ReGraph",
+  "aliases": []
+}
