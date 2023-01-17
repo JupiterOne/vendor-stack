@@ -5,7 +5,6 @@
   "privacyPolicy": "https://openrefine.org/privacy",
   "termsConditions": "https://github.com/OpenRefine/OpenRefine",
   "dataSecurity": "https://github.com/OpenRefine/OpenRefine/security/policy",
-  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-2536",
   "webLink": "https://openrefine.org/",
   "website": "https://openrefine.org/",
   "_type": "OpenRefine",

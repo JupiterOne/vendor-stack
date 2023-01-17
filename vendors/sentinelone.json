@@ -8,7 +8,6 @@
   "termsConditions": "https://www.sentinelone.com/legal/terms-of-service/",
   "dataSecurity": "https://www.sentinelone.com/security-compliance/",
   "description": "The SentinelOne Singularity XDR Platform unifies AI-powered prevention (EPP), endpoint detection and response (EDR), containers, network attack surface management, and cloud workload protection in a single, autonomous XDR platform.",
-  "reviewLink": "https://jupiterone.atlassian.net/browse/DESK-1382",
   "subprocessors": [
                     "Amazon Web Services, Inc", 
                     "Zendesk Inc.", 
