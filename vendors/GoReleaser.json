@@ -1,0 +1,12 @@
+{
+  "name": "GoReleaser",
+  "description": "Release Go projects as fast and easily as possible",
+  "iconWebLink": "https://goreleaser.com/favicon.ci",
+  "privacyPolicy":,
+  "termsConditions": "https://goreleaser.com/eula/",
+  "dataSecurity": "https://goreleaser.com/security/",
+  "webLink": "https://goreleaser.com/",
+  "website": "https://goreleaser.com/",
+  "_type": "GoReleaser",
+  "aliases": []
+}
