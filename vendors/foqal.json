@@ -1,0 +1,14 @@
+{
+  "name": "Foqal",
+  "category": "CSP",
+  "description": "Foqal agent gives your customers a home for support requests, to create tickets, and get help from you.",
+  "iconWebLink": "https://uploads-ssl.webflow.com/5fc2cfcef7e155711989124b/627329a859d84ec0c0e7033c_logo-256.png",
+  "linkToDPA": "https://drive.google.com/file/d/1g3OOnalY-vYY8sVbr3wiuUk4Z8dpTlMf/view",
+  "privacyPolicy": "https://www.foqal.io/policies/privacy-policy",
+  "termsConditions": "https://www.foqal.io/policies/terms-of-service",
+  "dataSecurity": "https://foqal.notion.site/Security-Whitepaper-8614e14bfdbb49d48ae094d89a0103aa",
+  "webLink": "https://www.foqal.io/",
+  "website": "https://www.foqal.io/",
+  "_type": "foqal",
+  "aliases": []
+}
