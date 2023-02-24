@@ -1,0 +1,12 @@
+{
+  "name": "SublimeText",
+  "description": "Sublime Text is a cross-platform text and code editor for developers",
+  "iconWebLink":,
+  "privacyPolicy": "https://sublimetextapp.com/privacy",
+  "termsConditions": "https://forum.sublimetext.com/tos",
+  "dataSecurity":,
+  "webLink": "https://www.sublimetext.com/",
+  "website": "https://www.sublimetext.com/",
+  "_type": "Sublime",
+  "aliases": []
+}
