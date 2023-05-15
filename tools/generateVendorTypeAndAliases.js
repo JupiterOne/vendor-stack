@@ -4,7 +4,7 @@
 
 const fs = require("fs");
 const Path = require("path");
-const snakeCase = require("../utils/snakeCase");
+const snakeCase = require("../src/snakeCase");
 
 const vendorsPathPrefix = Path.join(__dirname, "..", "vendors");
 const vendorFiles = fs.readdirSync(vendorsPathPrefix);

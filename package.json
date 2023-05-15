@@ -12,7 +12,8 @@
   "scripts": {
     "prepare": "husky install",
     "validate": "node tools/validateVendors",
-    "test": "jest"
+    "test": "jest",
+    "generate-vendor-file-list": "node ./tools/generateVendorExportsFile.js"
   },
   "devDependencies": {
     "ajv": "^8.6.3",
