@@ -8,11 +8,23 @@ and this project adheres to
 
 ## [Unreleased]
 
+## 2.0.4 - 2023-05-15
+
+### Fixed
+
+- Previously, this module was using dynamic module imports for vendor files.
+  Systems that use esbuild for bundling were unable to use this module as
+  esbuild was unable to resolve which files to include in its bundle. This
+  project has been updated to generate a `src/vendors.js` file based on the
+  contents of the `vendors/` directory. `src/vendors.js` is imported into other
+  project utilities, which will force the contents to be included in bundles.
+
 ## 2.0.0 - 2021-11-01
 
 ### Changed
 
-- `createVendorTypeFromName` now returns `undefined` if a matching vendor is not found.
+- `createVendorTypeFromName` now returns `undefined` if a matching vendor is not
+  found.
 
 ## 1.0.0 - 2021-10-29
 

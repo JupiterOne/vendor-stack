@@ -3,3 +3,4 @@
 
 npm run test
 npm run validate
+npm run generate-vendor-file-list

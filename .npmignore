@@ -1,1 +1,6 @@
 .test.js
+.husky
+.github
+.prettierrc
+jest.config.js
+vendors/

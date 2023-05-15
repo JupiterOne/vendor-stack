@@ -1,28 +1,26 @@
-const fs = require('fs');
-const Path = require("path");
+const vendors = require('./vendors');
 
-const vendorsPathPrefix = Path.join(__dirname, "..", "vendors");
-const vendorFiles = fs.readdirSync(vendorsPathPrefix);
-
-const vendorAliasMap = new Map();
-const filesAlreadyCached = new Set();
+const vendorAliasMap = createVendorPointerMap(vendors);
 
 const selectVendorByNameOrAlias = (vendorName) => {
-    const lookup = vendorAliasMap.get(vendorName);
-    if (lookup) {
-        return lookup;
-    }
-    const uncachedFiles = vendorFiles.filter((file) => !filesAlreadyCached.has(file));
-    for (const vendorFile of uncachedFiles) {
-        const vendor = require(Path.join(vendorsPathPrefix, vendorFile));
+    const index = vendorAliasMap.get(vendorName);
+    return index >= 0 ? vendors[index] : undefined;
+}
+
+function createVendorPointerMap(vendors) {
+    // Map<string, number> where the key is the vendor name or alias, and the
+    // value is the index in the `vendors` array.
+    const vendorAliasMap = new Map();
+
+    for (let i = 0; i < vendors.length; i++) {
+        const vendor = vendors[i];
+
         for (const alias of [vendor.name, ...(vendor.alias ?? [])]) {
-            vendorAliasMap.set(alias, vendor)
-            if (vendorName === alias) {
-                return vendor;
-            }
+            vendorAliasMap.set(alias, i);
         }
-        filesAlreadyCached.add(vendorFile);
     }
+
+    return vendorAliasMap;
 }
 
 module.exports = selectVendorByNameOrAlias;
