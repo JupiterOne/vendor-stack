@@ -8,6 +8,8 @@ and this project adheres to
 
 ## [Unreleased]
 
+## 2.0.4 - 2023-05-15
+
 ### Fixed
 
 - Previously, this module was using dynamic module imports for vendor files.
