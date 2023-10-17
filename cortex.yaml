@@ -1,0 +1,12 @@
+openapi: 3.0.1
+info:
+  title: '@jupiterone/vendor-stack'
+  description: Enumeration of common technology vendors
+  x-cortex-git:
+    github:
+      repository: JupiterOne/vendor-stack
+  x-cortex-owners:
+    - type: group
+      name: JupiterOne/mercury
+  x-cortex-service-groups: tier-4
+  x-cortex-tag: '@jupiterone/vendor-stack'
