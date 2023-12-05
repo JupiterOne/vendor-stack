@@ -8,5 +8,6 @@ info:
   x-cortex-owners:
     - type: group
       name: JupiterOne/mercury
-  x-cortex-service-groups: tier-4
   x-cortex-tag: '@jupiterone/vendor-stack'
+  x-cortex-service-groups:
+    - tier-4
